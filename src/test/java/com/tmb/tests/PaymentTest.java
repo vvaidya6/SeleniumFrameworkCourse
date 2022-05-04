@@ -18,5 +18,8 @@ public class PaymentTest  extends  BaseTest{
         Assert.assertEquals(DriverManager.getDriver().getTitle(), "OrangeHRM");
     }
 
+    @Test
+    public void test3(){
 
+    }
 }
